@@ -1,2 +1,2 @@
 # ou-chatbot-rag
-RAG-based chatbot for answering academic and curriculum-related queries at OU (Ho Chi Minh City Open University).
+A chatbot system that helps students at Ho Chi Minh City Open University (OU) quickly retrieve information about academic regulations and training programs using Retrieval-Augmented Generation (RAG).
