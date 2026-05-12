@@ -310,9 +310,10 @@ Một số hướng có thể cải tiến trong tương lai:
 
 Project được thực hiện trong khuôn khổ môn học **Xử lý ngôn ngữ tự nhiên**.
 
-Sinh viên thực hiện: `Điền tên sinh viên tại đây`
-
-Trường: `Trường Đại học Mở TP.HCM`
+| Họ và tên | MSSV |
+| :--- | :--- |
+| Phạm Minh Nguyệt | 2351060024 |
+| Nguyễn Ngọc Thảo Nhi | 2351060025 |
 
 ## 15. Ghi chú
 
